@@ -58,20 +58,20 @@ Network Support tasks,Accounts, Management andProblem solving skills.
 Experience
 ------
 
-#####AWS Solution Architect/ System Administrator 
+❖ AWS Solution Architect/ System Administrator 
 
 Company Name: LBL Corporation Full-time 
 
 Date: Employed May 2020 – Present 
 
 
-#####Cloud Architect
+❖Cloud Architect
 
 Company Name: The Talent Games Part-time
 
 Dates: Employed Mar 2020 – Present
 
-#####Network Support Engineer:
+❖Network Support Engineer:
 Global Software Consultants  
 Dates: Aug 2016 to March 2020
 
