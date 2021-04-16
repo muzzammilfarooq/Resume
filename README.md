@@ -1,10 +1,18 @@
 Muzzammil Farooq Khan
+
+
 Cloud Architect/System Administrator
 ======
   
 Contact: +92 3362215651
+
+
 Email id: muzzammilfarooq@gmail.com
-Address: B255 Gulshan-e-Rafi Karachi
+
+
+Address: B255 Gulshan-e-Rafi Karachi, Pakistan
+
+
 LinkedIn: https://www.linkedin.com/in/muzzammil-farooq-khan-ba017149
 
 
@@ -50,20 +58,23 @@ Network Support tasks,Accounts, Management andProblem solving skills.
 Experience
 ------
 
-WORK EXPERIENCE
+##AWS Solution Architect/ System Administrator 
 
-AWS Solution Architect/ System Administrator 
 Company Name: LBL Corporation Full-time 
+
 Date: Employed May 2020 – Present 
 
 
-Cloud Architect
+#Cloud Architect
+
 Company Name: The Talent Games Part-time
+
 Dates: Employed Mar 2020 – Present
 
-Network Support Engineer:
-Global Software Consultants (Aug 2016 to March 2020) 
-Responsibilities:
+#Network Support Engineer:
+Global Software Consultants  
+Dates: Aug 2016 to March 2020
+
 
 Projects:
 ------
@@ -100,9 +111,9 @@ Certifications
 Education
 ------
 
-➢ Master in Computer Scinence (in progress).
-➢ Master of Business Administration.
-➢ Bachelor of Business Administration
-➢ HSC (Computer Science)
-➢ SSC (Computer Scinece)
+#➢ Master in Computer Scinence (in progress).
+#➢ Master of Business Administration.
+#➢ Bachelor of Business Administration
+#➢ HSC (Computer Science)
+#➢ SSC (Computer Scinece)
 
