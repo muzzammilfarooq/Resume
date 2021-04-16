@@ -20,7 +20,7 @@ Core Skills
 ------
 
 ❖ AWS Services: 
-EC2, ELB, RDS,AWS CLI, NACL, VPC, Security Groups, NACL, S3,Glacier, 
+EC2, ELB, RDS,AWS CLI, NACL, VPC, Security Groups, NACL, S3,Glacier, AWS Lambda
 Autoscaling, CloudWatch, SNS, AWS KMS, SES, ACM, Cloud Front, ElasticBeanstalk
 
 ❖ Build & Release Engineering: 
