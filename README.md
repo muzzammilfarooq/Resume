@@ -111,9 +111,9 @@ Certifications
 Education
 ------
 
-#####➢ Master in Computer Scinence (in progress).
-#####➢ Master of Business Administration.
-#####➢ Bachelor of Business Administration
-#####➢ HSC (Computer Science)
-#####➢ SSC (Computer Scinece)
+##### Master in Computer Scinence (in progress).
+##### Master of Business Administration.
+##### Bachelor of Business Administration
+##### HSC (Computer Science)
+##### SSC (Computer Scinece)
 
