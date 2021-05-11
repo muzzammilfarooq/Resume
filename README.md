@@ -92,7 +92,7 @@ Following projects delivered from scratch.
 
 #### https://thetalentgames.com/
 
-#### https://learnbuildlead.com/
+#### https://lblglobal.com/
 
 #### http://learnearnown.com/ (website donwn due to discontinue of business)
 
