@@ -90,6 +90,8 @@ Following projects delivered from scratch.
 
 #### https://fr8.ai/
 
+#### https://www.arctech.world/
+
 #### https://zalmeco.com/
 
 #### https://linkeddup.com/
