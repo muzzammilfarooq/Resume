@@ -80,6 +80,18 @@ Projects:
 ------
 Following projects delivered from scratch. 
 
+#### https://thetalentgames.com/
+
+#### https://01hire.com/
+
+#### https://ecchicoin.com/
+
+#### https://www.deeplawn.com/
+
+#### https://fr8.ai/
+
+#### https://zalmeco.com/
+
 #### https://linkeddup.com/
 
 #### https://leadup.app/
@@ -89,8 +101,6 @@ Following projects delivered from scratch.
 #### https://collaq.com/
 
 #### https://beythak.com/
-
-#### https://thetalentgames.com/
 
 #### https://lblglobal.com/
 
