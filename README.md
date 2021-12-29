@@ -16,6 +16,39 @@ Address: B255 Gulshan-e-Rafi Karachi, Pakistan
 LinkedIn: https://www.linkedin.com/in/muzzammil-farooq-khan-ba017149
 
 
+Projects:
+------
+Following projects delivered from scratch. 
+
+#### https://thetalentgames.com/
+
+#### https://01hire.com/
+
+#### https://ecchicoin.com/
+
+#### https://www.deeplawn.com/
+
+#### https://fr8.ai/
+
+#### https://www.arctech.world/
+
+#### https://zalmeco.com/
+
+#### https://linkeddup.com/
+
+#### https://leadup.app/
+
+#### https://x2wallet.com/
+
+#### https://collaq.com/
+
+#### https://beythak.com/
+
+#### https://lblglobal.com/
+
+#### http://learnearnown.com/ (website donwn due to discontinue of business)
+
+
 Core Skills
 ------
 
@@ -76,37 +109,7 @@ Global Software Consultants
 Dates: Aug 2016 to March 2020
 
 
-Projects:
-------
-Following projects delivered from scratch. 
 
-#### https://thetalentgames.com/
-
-#### https://01hire.com/
-
-#### https://ecchicoin.com/
-
-#### https://www.deeplawn.com/
-
-#### https://fr8.ai/
-
-#### https://www.arctech.world/
-
-#### https://zalmeco.com/
-
-#### https://linkeddup.com/
-
-#### https://leadup.app/
-
-#### https://x2wallet.com/
-
-#### https://collaq.com/
-
-#### https://beythak.com/
-
-#### https://lblglobal.com/
-
-#### http://learnearnown.com/ (website donwn due to discontinue of business)
 
 
 Certifications
